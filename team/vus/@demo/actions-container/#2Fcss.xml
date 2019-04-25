@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false" name="/css"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/92b2a0c6-426f-40e7-ad9e-93cd8843f295.zip"
+    slaProfileEnabled="false" thinkTime="659"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="92b2a0c6-426f-40e7-ad9e-93cd8843f295">
+    <embedded-action>c3b62d5f-ab35-43b9-b55e-ded249fa3fc8</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/css; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/css" path="/css" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/92b2a0c6-426f-40e7-ad9e-93cd8843f295.zip"
+    recordedResponseCode="200" responseSize="10939"
+    serverUid="fonts.googleapis.com" slaProfileEnabled="false"
+    uid="c3b62d5f-ab35-43b9-b55e-ded249fa3fc8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c3b62d5f-ab35-43b9-b55e-ded249fa3fc8.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c3b62d5f-ab35-43b9-b55e-ded249fa3fc8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="family"
+        recordRawValue="Roboto:300,400,500,700|Google+Sans"
+        separator="=" value="Roboto:300,400,500,700|Google+Sans" valueMode="USE_VALUE"/>
+    <header name="te" value="trailers"/>
+    <header name="referer" value="http://sampledemo.neotys.com/"/>
+    <header name="accept-language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/css; charset=utf-8&#xd;
+access-control-allow-origin: *&#xd;
+timing-allow-origin: *&#xd;
+link: &lt;https://fonts.gstatic.com&gt;; rel=preconnect; crossorigin&#xd;
+strict-transport-security: max-age=31536000&#xd;
+expires: Thu, 14 Feb 2019 13:13:35 GMT&#xd;
+date: Thu, 14 Feb 2019 13:13:35 GMT&#xd;
+cache-control: private, max-age=86400&#xd;
+content-encoding: br&#xd;
+server: ESF&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

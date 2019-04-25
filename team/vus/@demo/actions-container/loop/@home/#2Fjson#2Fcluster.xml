@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false" name="/json/cluster"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/d0ba1650-151f-44d4-8d27-c24dea3bac91.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d0ba1650-151f-44d4-8d27-c24dea3bac91">
+    <embedded-action>d18a1629-48de-4b9a-95f5-3989ed100bff</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/json/cluster" path="/json/cluster" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/d0ba1650-151f-44d4-8d27-c24dea3bac91.zip"
+    recordedResponseCode="200" responseSize="8479"
+    serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
+    uid="d18a1629-48de-4b9a-95f5-3989ed100bff" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9d819730-fd63-48b5-bde8-47bd1e4393bf.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9d819730-fd63-48b5-bde8-47bd1e4393bf.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="1548979200" separator="=" value="1548979200" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="e"
+        recordRawValue="1551398399" separator="=" value="1551398399" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=h3ol768ujq1amd7erki23m8qj1; SRVNAME=S2"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="http://sampledemo.neotys.com/main"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 14 Feb 2019 13:17:34 GMT&#xd;
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16&#xd;
+X-Powered-By: PHP/5.4.16&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Set-Cookie: ushahidi=h3ol768ujq1amd7erki23m8qj1; expires=Thu, 14-Feb-2019 15:17:34 GMT; path=/; httponly&#xd;
+Vary: Accept-Encoding&#xd;
+Connection: close&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Transfer-Encoding: chunked</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

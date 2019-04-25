@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=Demo
+project.version=6.5
+project.original.version=4.2
+product.name=NeoLoad
+product.original.name=
+product.original.version=
+project.id=f64da9e0-c566-4703-9128-969332843579
+project.config.path=config
+project.config.storage=FOLDER
+team.server.enabled=true
+team.server.project=/dvieiraneotys/git_demo

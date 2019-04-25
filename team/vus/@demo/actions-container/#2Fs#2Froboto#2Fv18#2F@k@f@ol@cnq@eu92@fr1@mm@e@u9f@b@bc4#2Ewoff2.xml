@@ -1,0 +1,388 @@
+<http-page executeResourcesDynamically="false"
+    name="/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/fc8b3c5b-826a-4f57-8871-295a356e9fba.zip"
+    slaProfileEnabled="false" thinkTime="1770"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="fc8b3c5b-826a-4f57-8871-295a356e9fba">
+    <embedded-action>83e1ce61-4eb6-4dbc-8bcf-0b27d43fb0f7</embedded-action>
+    <embedded-action>7da16a2c-dd47-452c-b53c-49f90b954c48</embedded-action>
+    <embedded-action>306c2942-dbd7-4525-be84-5e06da08199e</embedded-action>
+    <embedded-action>7f282a90-b4f9-4816-becf-69e155e19ac6</embedded-action>
+    <embedded-action>303a583b-367e-4a35-9cbb-8e5a169cb1cc</embedded-action>
+    <embedded-action>b8e8b949-8ec5-4a28-bf90-34bbbd19cf30</embedded-action>
+    <embedded-action>b281cda4-fa20-4e9b-9d6c-96ca5b76bff3</embedded-action>
+    <embedded-action>aa87c386-d636-4efa-83e5-e419f863d32e</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Mon, 16 Oct 2017 17:33:02 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+    path="/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/fc8b3c5b-826a-4f57-8871-295a356e9fba.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="fonts.gstatic.com" slaProfileEnabled="false"
+    uid="83e1ce61-4eb6-4dbc-8bcf-0b27d43fb0f7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_83e1ce61-4eb6-4dbc-8bcf-0b27d43fb0f7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_83e1ce61-4eb6-4dbc-8bcf-0b27d43fb0f7.txt</requestContentFileDescription>
+    <header name="te" value="trailers"/>
+    <header name="referer" value="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans"/>
+    <header name="accept-language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="origin" value="http://sampledemo.neotys.com"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="identity"/>
+    <header name="accept" value="application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: font/woff2&#xd;
+access-control-allow-origin: *&#xd;
+timing-allow-origin: *&#xd;
+content-length: 15552&#xd;
+date: Tue, 05 Feb 2019 01:26:03 GMT&#xd;
+expires: Wed, 05 Feb 2020 01:26:03 GMT&#xd;
+last-modified: Mon, 16 Oct 2017 17:33:02 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 820054&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Mon, 16 Oct 2017 17:32:55 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2"
+    path="/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/fc8b3c5b-826a-4f57-8871-295a356e9fba.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="fonts.gstatic.com" slaProfileEnabled="false"
+    uid="7da16a2c-dd47-452c-b53c-49f90b954c48" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7da16a2c-dd47-452c-b53c-49f90b954c48</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7da16a2c-dd47-452c-b53c-49f90b954c48.txt</requestContentFileDescription>
+    <header name="te" value="trailers"/>
+    <header name="referer" value="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans"/>
+    <header name="accept-language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="origin" value="http://sampledemo.neotys.com"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="identity"/>
+    <header name="accept" value="application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: font/woff2&#xd;
+access-control-allow-origin: *&#xd;
+timing-allow-origin: *&#xd;
+content-length: 15344&#xd;
+date: Mon, 04 Feb 2019 23:45:57 GMT&#xd;
+expires: Tue, 04 Feb 2020 23:45:57 GMT&#xd;
+last-modified: Mon, 16 Oct 2017 17:32:55 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 826060&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 01 Jan 2010 01:00:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/kh" path="/kh" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/fc8b3c5b-826a-4f57-8871-295a356e9fba.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="khms1.googleapis.com" slaProfileEnabled="false"
+    uid="306c2942-dbd7-4525-be84-5e06da08199e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_306c2942-dbd7-4525-be84-5e06da08199e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_306c2942-dbd7-4525-be84-5e06da08199e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="823" separator="=" value="823" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="x"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="y"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <header name="te" value="trailers"/>
+    <header name="referer" value="http://sampledemo.neotys.com/"/>
+    <header name="accept-language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp,*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 14 Feb 2019 05:25:15 GMT&#xd;
+expires: Fri, 15 Feb 2019 05:25:15 GMT&#xd;
+last-modified: Fri, 01 Jan 2010 01:00:00 GMT&#xd;
+access-control-allow-credentials: true&#xd;
+vary: Origin&#xd;
+content-type: image/jpeg&#xd;
+x-content-type-options: nosniff&#xd;
+server: HTTP server (unknown)&#xd;
+content-length: 11421&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+cache-control: public, max-age=86400&#xd;
+age: 28102&#xd;
+server-timing: gfet4t7; dur=0&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 01 Jan 2010 01:00:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/kh" path="/kh" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/fc8b3c5b-826a-4f57-8871-295a356e9fba.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="khms1.googleapis.com" slaProfileEnabled="false"
+    uid="7f282a90-b4f9-4816-becf-69e155e19ac6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7f282a90-b4f9-4816-becf-69e155e19ac6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7f282a90-b4f9-4816-becf-69e155e19ac6.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="823" separator="=" value="823" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="x"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="y"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <header name="te" value="trailers"/>
+    <header name="referer" value="http://sampledemo.neotys.com/"/>
+    <header name="accept-language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp,*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+date: Wed, 13 Feb 2019 18:51:35 GMT&#xd;
+expires: Thu, 14 Feb 2019 18:51:35 GMT&#xd;
+last-modified: Fri, 01 Jan 2010 01:00:00 GMT&#xd;
+access-control-allow-credentials: true&#xd;
+vary: Origin&#xd;
+content-type: image/jpeg&#xd;
+x-content-type-options: nosniff&#xd;
+server: HTTP server (unknown)&#xd;
+content-length: 8176&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+cache-control: public, max-age=86400&#xd;
+age: 66122&#xd;
+server-timing: gfet4t7; dur=0&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 01 Jan 2010 01:00:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/kh" path="/kh" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/fc8b3c5b-826a-4f57-8871-295a356e9fba.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="khms1.googleapis.com" slaProfileEnabled="false"
+    uid="303a583b-367e-4a35-9cbb-8e5a169cb1cc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_303a583b-367e-4a35-9cbb-8e5a169cb1cc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_303a583b-367e-4a35-9cbb-8e5a169cb1cc.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="823" separator="=" value="823" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="x"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="y"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <header name="te" value="trailers"/>
+    <header name="referer" value="http://sampledemo.neotys.com/"/>
+    <header name="accept-language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp,*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 14 Feb 2019 10:03:30 GMT&#xd;
+expires: Fri, 15 Feb 2019 10:03:30 GMT&#xd;
+last-modified: Fri, 01 Jan 2010 01:00:00 GMT&#xd;
+access-control-allow-credentials: true&#xd;
+vary: Origin&#xd;
+content-type: image/jpeg&#xd;
+x-content-type-options: nosniff&#xd;
+server: HTTP server (unknown)&#xd;
+content-length: 6756&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+cache-control: public, max-age=86400&#xd;
+age: 11407&#xd;
+server-timing: gfet4t7; dur=0&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 01 Jan 2010 01:00:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/kh" path="/kh" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/fc8b3c5b-826a-4f57-8871-295a356e9fba.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="khms1.googleapis.com" slaProfileEnabled="false"
+    uid="b8e8b949-8ec5-4a28-bf90-34bbbd19cf30" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b8e8b949-8ec5-4a28-bf90-34bbbd19cf30</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b8e8b949-8ec5-4a28-bf90-34bbbd19cf30.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="823" separator="=" value="823" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="x"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="y"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <header name="te" value="trailers"/>
+    <header name="referer" value="http://sampledemo.neotys.com/"/>
+    <header name="accept-language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp,*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 14 Feb 2019 10:03:30 GMT&#xd;
+expires: Fri, 15 Feb 2019 10:03:30 GMT&#xd;
+last-modified: Fri, 01 Jan 2010 01:00:00 GMT&#xd;
+access-control-allow-credentials: true&#xd;
+vary: Origin&#xd;
+content-type: image/jpeg&#xd;
+x-content-type-options: nosniff&#xd;
+server: HTTP server (unknown)&#xd;
+content-length: 7506&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+cache-control: public, max-age=86400&#xd;
+age: 11407&#xd;
+server-timing: gfet4t7; dur=0&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 01 Jan 2010 01:00:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/kh" path="/kh" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/fc8b3c5b-826a-4f57-8871-295a356e9fba.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="khms1.googleapis.com" slaProfileEnabled="false"
+    uid="b281cda4-fa20-4e9b-9d6c-96ca5b76bff3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b281cda4-fa20-4e9b-9d6c-96ca5b76bff3</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b281cda4-fa20-4e9b-9d6c-96ca5b76bff3.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="823" separator="=" value="823" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="x"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="y"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <header name="te" value="trailers"/>
+    <header name="referer" value="http://sampledemo.neotys.com/"/>
+    <header name="accept-language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp,*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 14 Feb 2019 10:03:30 GMT&#xd;
+expires: Fri, 15 Feb 2019 10:03:30 GMT&#xd;
+last-modified: Fri, 01 Jan 2010 01:00:00 GMT&#xd;
+access-control-allow-credentials: true&#xd;
+vary: Origin&#xd;
+content-type: image/jpeg&#xd;
+x-content-type-options: nosniff&#xd;
+server: HTTP server (unknown)&#xd;
+content-length: 10141&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+cache-control: public, max-age=86400&#xd;
+age: 11407&#xd;
+server-timing: gfet4t7; dur=0&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 01 Jan 2010 01:00:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/kh" path="/kh" postType="1"
+    recordedArtifactZipFileName="team/vus/@demo/%resources%/recorded-artifacts/fc8b3c5b-826a-4f57-8871-295a356e9fba.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="khms1.googleapis.com" slaProfileEnabled="false"
+    uid="aa87c386-d636-4efa-83e5-e419f863d32e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aa87c386-d636-4efa-83e5-e419f863d32e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aa87c386-d636-4efa-83e5-e419f863d32e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="823" separator="=" value="823" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="x"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="y"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <header name="te" value="trailers"/>
+    <header name="referer" value="http://sampledemo.neotys.com/"/>
+    <header name="accept-language" value="fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp,*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 14 Feb 2019 10:03:30 GMT&#xd;
+expires: Fri, 15 Feb 2019 10:03:30 GMT&#xd;
+last-modified: Fri, 01 Jan 2010 01:00:00 GMT&#xd;
+access-control-allow-credentials: true&#xd;
+vary: Origin&#xd;
+content-type: image/jpeg&#xd;
+x-content-type-options: nosniff&#xd;
+server: HTTP server (unknown)&#xd;
+content-length: 7907&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+cache-control: public, max-age=86400&#xd;
+age: 11407&#xd;
+server-timing: gfet4t7; dur=0&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

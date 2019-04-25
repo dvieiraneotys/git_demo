@@ -1,0 +1,53 @@
+<population uid="Demo">
+    <split cache="1" factor="50.0" virtualUserUid="BrowserUser_Create_report">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="3" factor="30.0" virtualUserUid="MyiPhoneUser_Create_report">
+        <browser-profile acceptEncoding="GZIP,DEFLATE" connections="6"
+            cookies="true" http2="false" icon-name="droid"
+            name="Samsung Galaxy S5" userAgent="Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900FQ Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1"/>
+        <wan-emulation-profile averageDownloadBandwidth="12Mbps"
+            averageDownloadLatency="30ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="5Mbps" averageUploadLatency="30ms"
+            averageUploadPacketLoss="0%" downloadBandwidth="16Mbps"
+            downloadLatency="20ms" downloadPacketLoss="0%"
+            isRadio="true" name="4G LTE" poorDownloadBandwidth="5Mbps"
+            poorDownloadLatency="40ms" poorDownloadPacketLoss="1%"
+            poorUploadBandwidth="2Mbps" poorUploadLatency="40ms"
+            poorUploadPacketLoss="0%" signalStrength="AVERAGE"
+            uploadBandwidth="8Mbps" uploadLatency="20ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="20.0" virtualUserUid="Demo">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+</population>

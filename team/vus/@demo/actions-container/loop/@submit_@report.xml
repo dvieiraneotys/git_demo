@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Submit_Report" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="aa1e6827-f6c2-4448-a747-80e67b56bfbe" weightsEnabled="false">
+    <weighted-embedded-action uid="ad7f2301-473d-4175-aa7d-533b74c8f399"/>
+</basic-logical-action-container>
